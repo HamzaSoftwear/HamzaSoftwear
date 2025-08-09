@@ -7,10 +7,12 @@
 
 ###
 
-<p 💻 Software Engineer | 📱 Flutter Developer | ⚛️ React Front-End Developer | 🎨 UI/UX Enthusiast
+<p 💻 Software Engineer | 📱 Flutter Developer | ⚛️ React Front-End Developer | 🎨 UI-UX Enthusiast
 🎯 Passionate about building cross-platform apps & solving real-world problems
 🔥 Completed internship as a Flutter Developer at Pioneer Company (2024)
-🚀 Skilled in Flutter, Dart, React, JavaScript, Firebase, and Git/GitHub.</p>
+🚀 Skilled in Flutter, Dart, React, JavaScript, Firebase, and Git-GitHub.
+
+ </p>
 
 ###
 
